@@ -1,0 +1,21 @@
+#id_gender, #id_job_city{
+    list-style-type: none;
+    display: inline-flex;
+}
+
+#id_gender > li{
+    padding-left: 10px;
+}
+
+#id_job_city > li{
+    padding-left: 5px;
+}
+
+/* Footer */
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: rgb(27, 25, 25);
+    border-top: .05rem solid #e5e5e5;
+  }
